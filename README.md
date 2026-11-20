@@ -1,1 +1,12 @@
-# Module-1--final-assignment
+ Module-1--final-assignment
+ Customer dimension
+ imported and explored the customer dataset.checked for duplicate records and missing values.cleaned and organised customer data.used excel functions to analyse customer information.performed gender-wise analysis.analysed customer age categories and loyalty levels.created pivot tables to summarise customer data.created charts and a customer analysis dashboard to present the findings.
+ Product dimension
+ checked and cleaned product data.identified and checked duplicate records and blank cells.used text functions such as PROPER,TRIM,LEFT,RIGHT,MID AND LEN.used mathematical and statistical functions such as SUM,AVERAGE,MIN,MAX,MEDIAN,MODE,STDEV AND VAR.applied conditional functions such as SUMIF,COUNTIF,AVERAGEIF,SUMIFS,COUNTIFS AND AVERAGEIFS.performed sorting and filtering.created pivot tables for category wise, brand wise and sub category wise analysis.created charts and a product analysis dashboard.
+ Store dimension
+ checked and cleaned store information.checked for duplicate records and blank cells.used PROPER and TRIM functions to clean text.used COUNTA and COUNTIF to calculate total stores, region-wise counts and store type wise counts.applied filtering and sorting.created pivot tables for region wise,city wise and store type wise analysis.created charts and a store analysis dashboard.
+ Sales fact table
+ explored the sales transaction dataset containing 2000 records.checked for duplicate sales id values.identified missing values in quantity, unit price, discount and total amount.used COUNTBLANK to identify missing values.worked on handling missing values.used SUM,COUNT,AVERAGE,SUMIF and COUNTIF for sale analysis.created pivot tables for payment type-wise sales, product wise quantity,storewise sales and customer wise sales.created charts to visualise sales performance.created a sales analysis dashboard.
+ combining tables using lookup functions
+ used sales data as the main fact table.used XLOOKUP to retrieve product details from Product_dim.used VLOOKUP to retrieve store details from store_dim.used XLOOKUP to retrieve customer details from customer_dim.combined information from the fact table and dimension tables into a consolidated dataset.
+ through this assignment I practised data cleaning, excel formulas, data analysis, pivot tables, visualisation and lookup functions.i gained practical experience in analysing customer, product,store and sales data using Microsoft excel.
